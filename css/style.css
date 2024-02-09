@@ -5,11 +5,7 @@ body{
     padding: 0;
     background-color: black;
 }
-h1{
-    color: white;
-    align-items: center;
-    justify-content: center;
-}
+
 .img__content{
     margin: 0;
     position: absolute;
